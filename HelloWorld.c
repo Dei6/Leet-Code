@@ -1,1 +1,2 @@
-printf("Hello World!")
+printf("Hello World!");
+printf('I am cui chen yang');
